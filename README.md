@@ -2,7 +2,7 @@
 ### This is Hardiyanto Introduction <img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 Three Hardi's Superpower: <strong>Swift-learner, Strong-willed, Analytical and Strategical Inovative</strong></center>
 
-![Hardiyanto Github Introduction](https://https://github.com/hardiyantopurnomo/Introduction/banner.PNG)
+![Hardiyanto Github Introduction](https://github.com/hardiyantopurnomo/Introduction/blob/main/banner.PNG)
 
 - 💻 Currently, He is working as data and business analyst.
 - 💡📈📊 He loves data and business 
