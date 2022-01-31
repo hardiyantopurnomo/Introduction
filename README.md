@@ -13,7 +13,9 @@ I am pursuing opportunities to leverage many new aspect,especially in analyst, c
 - <strong>The only constant is change. So, magnify righteous deeds is a must</strong>
 
 ## 💬 Do you want to say hello?
+<div align="center">
 <p>
   <a href="https://www.linkedin.com/in/hardiyanto-purnomo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hardiyanto.purnomo@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 </p>
+</div>
